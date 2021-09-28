@@ -30,7 +30,6 @@ public class Scene {
         writer.write(log);
         writer.flush();
         writer.close();
-
     }
 
 }
